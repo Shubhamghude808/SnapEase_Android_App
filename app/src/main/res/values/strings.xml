@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScanEase</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOG-IN</string>
+    <string name="signup">SIGN-UP</string>
+    <string name="logtext">Not yet registered? SignUp</string>
+    <string name="signtext">Already registered? Login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scanning">Scanning</string>
+    <string name="history">History</string>
+    <string name="content">Content:</string>
+    <string name="URL">https://www.google.co.in/</string>
+    <string name="type">Type:</string>
+    <string name="qr_bar_code">QR/BAR Code</string>
+    <string name="search">Search</string>
+    <string name="scan">Scan</string>
+    <string name="save">Save</string>
+</resources>

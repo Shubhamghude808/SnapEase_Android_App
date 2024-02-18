@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000861208068",
+    "project_id": "ssfinal-d3d8d",
+    "storage_bucket": "ssfinal-d3d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000861208068:android:5fa49209b9ced922176f51",
+        "android_client_info": {
+          "package_name": "com.example.ss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo1FX-uAUeTPmv_N0WyYHNKfxI-cy6MFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
