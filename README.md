@@ -27,7 +27,7 @@ Key Features:
 
 <br /><br />
 Some screenshots of the app (visited the gallery folder to see all the images)
-
-![image](https://github.com/Shubhamghude808/SnapEase_Android_App/assets/112695994/6847cbd3-a606-41fe-be4b-fa2e1908a5cc)
-![image](https://github.com/Shubhamghude808/SnapEase_Android_App/assets/112695994/10b90dcf-ca11-4501-9008-ee7405acc52f)
+<br /><br />
+<img src="https://github.com/Shubhamghude808/SnapEase_Android_App/assets/112695994/6847cbd3-a606-41fe-be4b-fa2e1908a5cc" alt="Example Image" width="300" height="700">
+<img src="https://github.com/Shubhamghude808/SnapEase_Android_App/assets/112695994/10b90dcf-ca11-4501-9008-ee7405acc52f" alt="Example Image" width="300" height="700">
 
